@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class frequency {
+public class maxfrequency {
 
 	public static int frequency(String s){
 		
